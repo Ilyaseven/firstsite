@@ -1,0 +1,451 @@
+/*Background*/
+
+	body {
+	background-color: #C42D21;
+	}
+
+	.black-zone1 {
+	background-color: #1F1F1F;
+	width: 1500px;
+	height: 10px;
+	position: relative;
+	top: 9px;
+	left: 220px;
+	font-size: 50px;
+	font-family: "atgatg";
+	}
+
+	.white-zone {
+	background-color: #EAE4EA;
+	width: 1500px;
+	height: 826px;
+	position: relative;
+	top : 9px;
+	left: 220px;
+	font-size: 50px;
+	font-family: "atgatg";
+	}
+
+	.colortext {
+	color: #C42D21;
+	}
+
+	.title {
+	position: relative;
+	left: 140px;
+	top: -776px;
+	text-shadow: 1px 1px 10px #B6B6B6;
+	}
+
+	#banner {
+	width: 65px;
+	position: relative;
+	left: 60px;
+	top: 18px;
+	}
+
+	.black {
+	background-color: #1F1F1F;
+	width: 10px;
+	top: 10px;
+	}
+
+	.black-zone2 {
+	background-color: #1F1F1F;
+	width: 1500px;
+	height: 100px;
+	position: relative;
+	top: -60px;
+	left: 220px;
+	font-size: 50px;
+	font-family: "atgatg";
+	}
+
+	.footer {
+	font-family: "Bebas Neue";
+	color: #EBE8E8;
+	font-size: 45px;
+	position: relative;
+	top: -133px;
+	left: 280px;
+	}
+
+/*Menu*/
+
+	.menu-1 {
+		background-color: #A31D12;
+		position: relative;
+		top: -926px;
+		left: 280px;
+		width: 1380px;
+		height: 25px;
+		border: solid 0px black;
+		border-radius: 7px;
+		font-size: 19px;
+		font-family: "Myriad Pro";
+		color: #EBEBEB;
+		word-spacing: 40px;
+		list-style: none;
+		padding: 5px;
+	}
+
+	.menu-1 a {
+	  color: #EBEBEB;
+		padding: 5px;
+	  text-decoration: none;
+	}
+
+	.paragraph-1 {
+		word-spacing: 40px;
+	}
+
+	.paragraph-2 {
+		word-spacing: 0px;
+	}
+
+	.active {
+		position: relative;
+		top: 1.3px;
+		left: -5px;
+		width: 1380px;
+		color: #EAEAEA;
+		background-color: #333333;
+		border: solid 0px black;
+		border-radius: 7px;
+		padding: 8px;
+		}
+
+	.passive {
+		position: relative;
+		top: 1.3px;
+		left: -5px;
+		width: 1380px;
+		color: #EAEAEA;
+		border: solid 0px black;
+		border-radius: 7px;
+		padding: 8px;
+	}
+
+	.menu-2 {
+		background-color: #373737;
+		position: relative;
+		top: -998px;
+		left: 1361px;
+		width: 300px;
+		height: 25px;
+		border: solid 0px black;
+		border-radius: 7px;
+		padding-top: 7px;
+		padding-left: 27px;
+		padding-bottom: 3px;
+		text-align: left;
+		font-size: 19px;
+		font-family: "Cricket";
+		color: #EBEBEB;
+	}
+
+	.mini-menu {
+		position: relative;
+		left: 1460px;
+		top: -980px;
+		color: #737473;
+		font-family: "Helvetica Neue";
+	}
+
+	.menu-1 li {
+		display: inline;
+	}
+
+/*Main part of site*/
+
+	/*First Block*/
+	.main-1 {
+		background-color: #A31D12;
+		position: relative;
+		top: -986px;
+		left: 280px;
+		width: 1037px;
+		height: 340px;
+		border: solid 0px black;
+		border-radius: 7px;
+		padding-top: 7px;
+		padding-left: 27px;
+		padding-bottom: 3px;
+		text-align: left;
+		font-size: 19px;
+		font-family: "Myriad Pro";
+		color: #EBEBEB;
+	}
+
+	#gold {
+		position: relative;
+		left: 680px;
+		top: 40px;
+	}
+
+	.main-text-1 {
+		position: relative;
+		top: -210px;
+		left: 30px;
+		color: #F6EE79;
+		font-size: 42px;
+		font-family: "Bebas Neue";
+	}
+
+	.main-text-2 {
+		position: relative;
+		top: -290px;
+		left: 30px;
+		color: #F6EE79;
+		font-size: 72px;
+		font-family: "Bebas Neue";
+	}
+
+	.main-text-3 {
+		position: relative;
+		top: -370px;
+		left: 30px;
+		color: #EBE8E8;
+		font-size: 30px;
+		font-family: "Bebas Neue";
+	}
+
+	.main-text-4 {
+		position: relative;
+		top: -400px;
+		left: 30px;
+		color: #EBE8E8;
+		font-size: 30px;
+		font-family: "Bebas Neue";
+	}
+
+	#points {
+		position: relative;
+		left: 800px;
+		top: -490px;
+	}
+
+	/*Second block*/
+
+	.main-2 {
+		background-color: #1F1F1F;
+		position: relative;
+		top: -1336px;
+		left: 1360px;
+		width: 302px;
+		height: 340px;
+		border: solid 0px black;
+		border-radius: 7px;
+		padding-top: 7px;
+		padding-left: 27px;
+		padding-bottom: 3px;
+		text-align: left;
+		font-size: 19px;
+		font-family: "Myriad Pro";
+		color: #EBEBEB;
+	}
+
+	.input-1 {
+		color: #C2C3C3;
+		position: relative;
+		top: -36px;
+		left: 8x;
+		width: 267px;
+	}
+
+	.input-2 {
+		color: #C2C3C3;
+		position: relative;
+		top: -26px;
+		left: 8x;
+		width: 267px;
+	}
+
+	.custamer-login {
+		color: #D6D6D6;
+		font-family: "Myriad Pro";
+		position: relative;
+		top: -33px;
+		left: 26px;
+	}
+
+	.person-icon {
+		position: relative;
+		top: 10px;
+		left: -4px;
+	}
+
+	.remember-me {
+		color: #C8CACA;
+		position: relative;
+		top: -24px;
+		left: 100px;
+		font-size: 14px;
+		font-family: "Helvetica Neue";
+	}
+
+	.checkbox {
+		position: relative;
+		top: -56px;
+		left: 75px;
+	}
+
+	.forget {
+		color: #C8CACA;
+		position: relative;
+		top: -66px;
+		left: 70px;
+		font-size: 13px;
+		font-family: "Helvetica Neue";
+	}
+
+	.submit {
+		color: #ECECEC;
+		background-color: #DE4234;
+		position: relative;
+		left: 100px;
+		top: -62px;
+		border: 0px solid #DE4234;
+		border-radius: 5px;
+		width: 70px;
+		height: 30px;
+		font-size: 16px;
+	}
+
+	.not-a-member {
+		color: #E4E4E4;
+		position: relative;
+		top: -52px;
+		left: 75px;
+		font-family: "Myriad Pro";
+	}
+
+	.submit-2 {
+		color: #ECECEC;
+		background-color: #DE4234;
+		position: relative;
+		left: 70px;
+		top: -62px;
+		border: 0px solid #DE4234;
+		border-radius: 5px;
+		height: 30px;
+		font-size: 16px;
+	}
+
+	/*Thirst block*/
+	.main-3 {
+		position: relative;
+		top: -1340px;
+		left: 300px;
+		color: #595959;
+		font-family: "Myriad Pro";
+		font-size: 40px;
+	}
+
+	.specialities {
+		color: #E24537;
+	}
+
+	#ticks {
+		position: relative;
+		width: 400px;
+		top: -60px;
+		left: -190px;
+	}
+
+	.main-text {
+		color: #7F7C7C;
+		font-style: "Helvetica Neue";
+		font-size: 20px;
+		position: relative;
+		left: 45px;
+		top: -293px;
+		line-height: 0.64em;
+	}
+
+	/*Fourth Block*/
+
+	.how-it-works {
+		position: relative;
+		color: #595959;
+		font-family: "Myriad Pro";
+		font-size: 40px;
+		top: -70px;
+	}
+
+	.works {
+		color: #E24335;
+	}
+
+	.main-4 {
+		background-color: #F2F4F4;
+		border-radius: 10px;
+		position: relative;
+		width: 868px;
+		height: 150px;
+		top: -1830px;
+		left: 820px;
+	}
+
+	#schedule {
+		position: relative;
+		width: 1100px;
+		top: -580px;
+		left: -370px;
+	}
+
+	#arrows {
+		position: relative;
+		top: -1680px;
+		left: -110px;
+	}
+
+	.main-text-5 {
+		position: relative;
+		color: #737070;
+		top: -2095px;
+		left: 124px;
+		font-family: "Helvetica Neue";
+	}
+
+	.main-text-6 {
+		position: relative;
+		color: #737070;
+		top: -2129px;
+		left: 390px;
+		font-family: "Helvetica Neue";
+	}
+
+	.main-text-7 {
+		position: relative;
+		color: #737070;
+		top: -2163px;
+		left: 650px;
+		font-family: "Helvetica Neue";
+	}
+
+	#gold-2 {
+		position: relative;
+		top: -2490px;
+		left: 350px;
+		width: 150px;
+	}
+
+	#money {
+		position: relative;
+		top: -2395px;
+		left: 400px;
+	}
+
+	.Copyright {
+		position: relative;
+		top: -2410px;
+		left: 560px;
+		color: #ECECEC;
+		font-size: 21px;
+		font-family: "Myriad Pro";
+	}
+
+	.Cssauthor {
+		word-spacing: 20px;
+	}
